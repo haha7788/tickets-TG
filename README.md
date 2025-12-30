@@ -20,7 +20,6 @@
 ### 📋 Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
@@ -43,10 +42,6 @@
 - 🔍 **Search** - Search tickets and users by ID or username
 - 📈 **Statistics** - Real-time stats on tickets, users, and bot activity
 - 💾 **Local Storage** - All media files saved locally for persistence
-
-### 🎬 Demo
-
-> Add screenshots or GIFs of your bot in action here
 
 ### 🚀 Installation
 
@@ -264,7 +259,6 @@ If you have any questions or issues, please open an issue on GitHub.
 ### 📋 Содержание
 
 - [Возможности](#возможности)
-- [Демо](#демо)
 - [Установка](#установка)
 - [Настройка](#настройка)
 - [Структура проекта](#структура-проекта)
@@ -287,10 +281,6 @@ If you have any questions or issues, please open an issue on GitHub.
 - 🔍 **Поиск** - Поиск тикетов и пользователей по ID или username
 - 📈 **Статистика** - Статистика в реальном времени по тикетам, пользователям и активности бота
 - 💾 **Локальное хранилище** - Все медиа-файлы сохраняются локально
-
-### 🎬 Демо
-
-> Здесь можно добавить скриншоты или GIF вашего бота в действии
 
 ### 🚀 Установка
 
